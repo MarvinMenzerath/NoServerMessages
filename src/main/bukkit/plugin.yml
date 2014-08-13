@@ -1,0 +1,8 @@
+name: NoServerMessages
+main: eu.menzerath.bukkit.NoServerMessages
+version: 1.0
+
+commands:
+  togglemessages:
+    description: Toggle Join-/Leave-/Death-Messages on or off
+    usage: Use /togglemessages to turn Join-/Leave-/Death-Messages on or off
