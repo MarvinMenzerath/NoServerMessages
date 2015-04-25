@@ -1,5 +1,6 @@
 # NoServerMessages
-This tiny Plugin allows you to remove every Join-/Leave-/Death-Message from the Chat and to toggle this behaviour by using a single command.
+This tiny Plugin allows you to remove every Join-/Leave-/Death-Message from the Chat and to toggle this behaviour by using a single command.  
+[![Build Status](https://drone.io/github.com/MarvinMenzerath/NoServerMessages/status.png)](https://drone.io/github.com/MarvinMenzerath/NoServerMessages/latest)
 
 ## Install
 Grab a current Release from [here](https://github.com/MarvinMenzerath/NoServerMessages/releases) and copy it into your Plugins-Directory. That's it.
