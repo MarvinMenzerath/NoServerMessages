@@ -1,6 +1,6 @@
 name: NoServerMessages
 main: pro.marvin.minecraft.NoServerMessages
-version: 1.0
+version: 1.0.1
 
 commands:
   togglemessages:
